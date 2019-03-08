@@ -8,3 +8,6 @@ class TestLogin:
     def test_login2(self):
         print("2")
         assert 0
+    def test_login3(self):
+        print("3")
+        assert 0
